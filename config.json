@@ -1,0 +1,27 @@
+{
+  "token": "",
+  "username": "DevineAdmin",
+  "password": "milo",
+  "port": "3000",
+  "clientId": "759047677488005121",
+  "guildId": "1188620261763842048",
+  "globalDeploy": false,
+  "status": "🔱 Powered By Devine Gen",
+  "website": "",
+  "banner": "https://share.creavite.co/65ae18ec7b584672641d16c3.gif",
+  "footer": "D E V I N E - G E N",
+  "genChannel": "1195619584141705236",
+  "premiumChannel": "1195619649870630952",
+  "genCooldown": "15",
+  "premiumCooldown": "5",
+  "color": {
+    "green": "0x57F287",
+    "yellow": "0xFEE75C",
+    "red": "0xED4245",
+    "default": "0x5865F2"
+  },
+  "command": {
+    "notfound_message": true,
+    "error_message": true
+  }
+}
